@@ -1,7 +1,7 @@
 # Disaster
 
 Classifying if tweets are about real disasters
-
+0.010000
 ## Structure
 
 Since this is about classifying if text from tweets (Natural Language) are about real disaster. We need to turn the text into vectors.
